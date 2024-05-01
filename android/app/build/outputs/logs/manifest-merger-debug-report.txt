@@ -1,0 +1,838 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/deepak/.gradle/caches/transforms-3/f77324eb3560ba053b9b4947b68eee65/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/deepak/.gradle/caches/transforms-3/def57e1a4dcad109180b3ab53b0adde6/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/deepak/.gradle/caches/transforms-3/06b33314029caf76bcb35592e4d92a50/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-whatsapp-stickers] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-whatsapp-stickers/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-18:12
+MERGED from [:react-native-vector-icons] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-async-storage_async-storage] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-28:12
+MERGED from [:react-native-safe-area-context] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-share] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [com.facebook.react:react-native:0.70.6] /Users/deepak/.gradle/caches/transforms-3/23ab631cc4bdd45d79eb0b0d7ff117a4/transformed/jetified-react-native-0.70.6-debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/deepak/.gradle/caches/transforms-3/440094654b78a37c269e1ce331777fe7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.react:hermes-engine:0.70.6] /Users/deepak/.gradle/caches/transforms-3/2bba95126a31113d97dd36cf9dfd6bf3/transformed/jetified-hermes-engine-0.70.6-debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-reanimated] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-reanimated/android/build/.transforms/c4bf74ff6b7e2eda570d7aeec29a66c8/transformed/jetified-react-native-reanimated-70-hermes/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/deepak/.gradle/caches/transforms-3/5b521ed0c6a8b11fdb64bf6ca50b45b0/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/deepak/.gradle/caches/transforms-3/fd47ba3c6202e5878bf53bd26b9ae1f5/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/deepak/.gradle/caches/transforms-3/f5e12f3ed64f3a660f96783690933761/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/deepak/.gradle/caches/transforms-3/d26cee1a9aaa79cc46742f1be151af77/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/deepak/.gradle/caches/transforms-3/db5b56e5a1779922ae48a4f7d6fc667d/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/deepak/.gradle/caches/transforms-3/1ba4072ceccbc4a3abf58c7c6c1fbc8d/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/deepak/.gradle/caches/transforms-3/677611c885e086417f023a1e4231ccb8/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/deepak/.gradle/caches/transforms-3/22e47837571da993e96b14f6ee5710dc/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/deepak/.gradle/caches/transforms-3/13da3cde308857f59e4dc0458880e5ab/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/deepak/.gradle/caches/transforms-3/f6f23029cb330e3ee1768dae2063d51d/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/deepak/.gradle/caches/transforms-3/bb1fa2cee29a8461702afb9280d29a7f/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/deepak/.gradle/caches/transforms-3/fa5b6c974d58e811509d4a0cbd5ffeff/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/deepak/.gradle/caches/transforms-3/8706d4f07e241d53c57dd3dcedc7e6e4/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/deepak/.gradle/caches/transforms-3/b8d6279cc35fe2c0e28a6ce07f370cf4/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/deepak/.gradle/caches/transforms-3/5a5a1ea6e90522d44b1fcf42bf1e5345/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/deepak/.gradle/caches/transforms-3/95e5b6246a82fc2308e5e41875f52350/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/deepak/.gradle/caches/transforms-3/09acc6d3947b13222a92849aeb95faf1/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads:21.4.0] /Users/deepak/.gradle/caches/transforms-3/02400d862ce1e5239cdf23650df75011/transformed/jetified-play-services-ads-21.4.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:17:1-77:12
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:17:1-145:12
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/deepak/.gradle/caches/transforms-3/299118a3682997602c5c1f310a787637/transformed/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/deepak/.gradle/caches/transforms-3/9f7b45015896030194ebce7deeda1e49/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/deepak/.gradle/caches/transforms-3/67e6b752d9500436ba21b4070b078b79/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/deepak/.gradle/caches/transforms-3/ad8e2dbd416f5eb8f14483bdabd69a96/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/deepak/.gradle/caches/transforms-3/beac59883981cfbc6a63c21985f7a1c4/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/deepak/.gradle/caches/transforms-3/8879085792a67336d2caa4ea65e5ec70/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/deepak/.gradle/caches/transforms-3/cac2d21b5bc405a5e8e25fc90fc972c8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/deepak/.gradle/caches/transforms-3/b7bdf6a650d1fbe9c08512cb429afdf3/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/deepak/.gradle/caches/transforms-3/e1a818882399891e6d58c264b9773409/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/deepak/.gradle/caches/transforms-3/9de01d551500f987ae8554000b28c1f7/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.ump:user-messaging-platform:2.0.0] /Users/deepak/.gradle/caches/transforms-3/ed28dbb9190c188d69a0269d409b5656/transformed/jetified-user-messaging-platform-2.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/deepak/.gradle/caches/transforms-3/40831c85196fb011e9a7b3f0c314e36b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/deepak/.gradle/caches/transforms-3/1f5e9434628f8c313b95f3343ae6f81b/transformed/sqlite-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/deepak/.gradle/caches/transforms-3/18ce5fff9888d85df3020e2ea79f8c33/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-ads-base:21.4.0] /Users/deepak/.gradle/caches/transforms-3/906beb767cc7b95406d025534122c7f8/transformed/jetified-play-services-ads-base-21.4.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/deepak/.gradle/caches/transforms-3/7d1745dff212537eede1fee15f153ebf/transformed/jetified-play-services-appset-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.0] /Users/deepak/.gradle/caches/transforms-3/64d81ebafbd5f35bc724c109d2036474/transformed/jetified-play-services-base-18.0.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/deepak/.gradle/caches/transforms-3/e2fea474f70df246fb595b4a2f7aa340/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/deepak/.gradle/caches/transforms-3/e06a3ee8589f57cf992c1ca2fc5e309d/transformed/jetified-play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/deepak/.gradle/caches/transforms-3/e175fb07b4b92b4984fab96483a565d7/transformed/jetified-play-services-measurement-base-20.1.2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/deepak/.gradle/caches/transforms-3/3f3b554bbfe185d458c5757319125f8c/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/deepak/.gradle/caches/transforms-3/c4ceee6fb5fc88214d1e41e7d3104ffc/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/deepak/.gradle/caches/transforms-3/9da4558c267c3798df39589de4764678/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/deepak/.gradle/caches/transforms-3/d54c7f97072808783b557bde0137165a/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/deepak/.gradle/caches/transforms-3/91f4ceaff748a6cc1597752228fb21aa/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/deepak/.gradle/caches/transforms-3/50e1b705556bc8c4b7b85291bebce028/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/deepak/.gradle/caches/transforms-3/500fb56e51f16160058ca833c32781c1/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/deepak/.gradle/caches/transforms-3/6237f216a78e5935eb5050fc371a02e6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/deepak/.gradle/caches/transforms-3/21b623236f7f8b5dca5f80470a2e17ac/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/deepak/.gradle/caches/transforms-3/59c5c50b27e6810e8d4699fca2f19844/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/deepak/.gradle/caches/transforms-3/79192be5cf8d9c431c265f4f151a050d/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/deepak/.gradle/caches/transforms-3/74d4ab5b380c221128d83704b18d90ba/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/deepak/.gradle/caches/transforms-3/584e7b370dc5c7474f85c0972c626481/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /Users/deepak/.gradle/caches/transforms-3/f94a6548d960336ddd54c8f8d1fa2772/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/deepak/.gradle/caches/transforms-3/01b05d65929b5fd75a935c8a6dfe5da9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/deepak/.gradle/caches/transforms-3/a31ae9e54f351b94b23faf57b5a6367f/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/deepak/.gradle/caches/transforms-3/0e6794987f592cdadb4c3198fe17e5ae/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/deepak/.gradle/caches/transforms-3/56c1d2f2ca3435ffde2d9471851e560e/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/deepak/.gradle/caches/transforms-3/fe2391112b2df4848faba0e3c7814d54/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/deepak/.gradle/caches/transforms-3/4b484f526417f17aab7500514c51ad01/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/deepak/.gradle/caches/transforms-3/f0375e2f50db76a167fe33fb0f9070f6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/deepak/.gradle/caches/transforms-3/aba20c833b89276e99a79001f2220bb8/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/deepak/.gradle/caches/transforms-3/51a1f068f0aa98870c3d37e2b2543071/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/deepak/.gradle/caches/transforms-3/ca91d651f02c83188ed58997335b6812/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/deepak/.gradle/caches/transforms-3/2f46fb31216ad1ac8da055d1395b1c6b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/deepak/.gradle/caches/transforms-3/ed8f0920869c400f55c1176a60949e5c/transformed/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/deepak/.gradle/caches/transforms-3/348f1f0991de90aec68fb6ac46dba31b/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/deepak/.gradle/caches/transforms-3/73fe2cc71200dde8cd8a540aaea45dba/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/deepak/.gradle/caches/transforms-3/4a46a0cf3a1434e256d310e83955b0e8/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/deepak/.gradle/caches/transforms-3/5d0d4de6b93fd15cd93c5ac4f44a5b0e/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/debug/AndroidManifest.xml:2:1-13:12
+	package
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:2:3-39
+		INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:2:3-39
+		INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:1:1-31:12
+		INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:4:3-65
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/deepak/.gradle/caches/transforms-3/f77324eb3560ba053b9b4947b68eee65/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/deepak/.gradle/caches/transforms-3/f77324eb3560ba053b9b4947b68eee65/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:15:5-67
+MERGED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/deepak/.gradle/caches/transforms-3/e06a3ee8589f57cf992c1ca2fc5e309d/transformed/jetified-play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/deepak/.gradle/caches/transforms-3/e06a3ee8589f57cf992c1ca2fc5e309d/transformed/jetified-play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:4:20-62
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:5:3-78
+	android:name
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:5:20-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:6:3-79
+	android:name
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:6:20-76
+queries
+ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:7:3-9:13
+MERGED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:29:5-45:15
+MERGED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:29:5-45:15
+package#com.whatsapp
+ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:8:5-44
+	android:name
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:8:14-41
+application
+ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:10:3-30:17
+MERGED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:10:3-30:17
+MERGED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:10:3-30:17
+MERGED from [:react-native-whatsapp-stickers] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-whatsapp-stickers/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-16:19
+MERGED from [:react-native-whatsapp-stickers] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-whatsapp-stickers/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-16:19
+MERGED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-26:19
+MERGED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:5-26:19
+MERGED from [:react-native-share] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-share] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-19:19
+MERGED from [com.facebook.react:react-native:0.70.6] /Users/deepak/.gradle/caches/transforms-3/23ab631cc4bdd45d79eb0b0d7ff117a4/transformed/jetified-react-native-0.70.6-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.react:react-native:0.70.6] /Users/deepak/.gradle/caches/transforms-3/23ab631cc4bdd45d79eb0b0d7ff117a4/transformed/jetified-react-native-0.70.6-debug/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/deepak/.gradle/caches/transforms-3/bb1fa2cee29a8461702afb9280d29a7f/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/deepak/.gradle/caches/transforms-3/bb1fa2cee29a8461702afb9280d29a7f/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/deepak/.gradle/caches/transforms-3/95e5b6246a82fc2308e5e41875f52350/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/deepak/.gradle/caches/transforms-3/95e5b6246a82fc2308e5e41875f52350/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:47:5-75:19
+MERGED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:47:5-75:19
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:30:5-143:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/deepak/.gradle/caches/transforms-3/299118a3682997602c5c1f310a787637/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/deepak/.gradle/caches/transforms-3/299118a3682997602c5c1f310a787637/transformed/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/deepak/.gradle/caches/transforms-3/18ce5fff9888d85df3020e2ea79f8c33/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/deepak/.gradle/caches/transforms-3/18ce5fff9888d85df3020e2ea79f8c33/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:21.4.0] /Users/deepak/.gradle/caches/transforms-3/906beb767cc7b95406d025534122c7f8/transformed/jetified-play-services-ads-base-21.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:21.4.0] /Users/deepak/.gradle/caches/transforms-3/906beb767cc7b95406d025534122c7f8/transformed/jetified-play-services-ads-base-21.4.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/deepak/.gradle/caches/transforms-3/7d1745dff212537eede1fee15f153ebf/transformed/jetified-play-services-appset-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/deepak/.gradle/caches/transforms-3/7d1745dff212537eede1fee15f153ebf/transformed/jetified-play-services-appset-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.0] /Users/deepak/.gradle/caches/transforms-3/64d81ebafbd5f35bc724c109d2036474/transformed/jetified-play-services-base-18.0.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.0] /Users/deepak/.gradle/caches/transforms-3/64d81ebafbd5f35bc724c109d2036474/transformed/jetified-play-services-base-18.0.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/deepak/.gradle/caches/transforms-3/e2fea474f70df246fb595b4a2f7aa340/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/deepak/.gradle/caches/transforms-3/e2fea474f70df246fb595b4a2f7aa340/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/deepak/.gradle/caches/transforms-3/e175fb07b4b92b4984fab96483a565d7/transformed/jetified-play-services-measurement-base-20.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/deepak/.gradle/caches/transforms-3/e175fb07b4b92b4984fab96483a565d7/transformed/jetified-play-services-measurement-base-20.1.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/deepak/.gradle/caches/transforms-3/3f3b554bbfe185d458c5757319125f8c/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/deepak/.gradle/caches/transforms-3/3f3b554bbfe185d458c5757319125f8c/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/deepak/.gradle/caches/transforms-3/500fb56e51f16160058ca833c32781c1/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/deepak/.gradle/caches/transforms-3/500fb56e51f16160058ca833c32781c1/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/deepak/.gradle/caches/transforms-3/f94a6548d960336ddd54c8f8d1fa2772/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/deepak/.gradle/caches/transforms-3/f94a6548d960336ddd54c8f8d1fa2772/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/deepak/.gradle/caches/transforms-3/4b484f526417f17aab7500514c51ad01/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/deepak/.gradle/caches/transforms-3/4b484f526417f17aab7500514c51ad01/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/deepak/.gradle/caches/transforms-3/f0375e2f50db76a167fe33fb0f9070f6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/deepak/.gradle/caches/transforms-3/f0375e2f50db76a167fe33fb0f9070f6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/deepak/.gradle/caches/transforms-3/aba20c833b89276e99a79001f2220bb8/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/deepak/.gradle/caches/transforms-3/aba20c833b89276e99a79001f2220bb8/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/deepak/.gradle/caches/transforms-3/f94a6548d960336ddd54c8f8d1fa2772/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:12:5-37
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:12:5-37
+	tools:ignore
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/debug/AndroidManifest.xml:10:9-48
+	android:roundIcon
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:14:5-50
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:14:5-50
+	tools:targetApi
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/debug/AndroidManifest.xml:9:9-29
+	android:icon
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:13:5-39
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:13:5-39
+	android:allowBackup
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:15:5-32
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:15:5-32
+	android:theme
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:16:5-36
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:16:5-36
+	android:usesCleartextTraffic
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/debug/AndroidManifest.xml:8:9-44
+	android:name
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:11:5-36
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:11:5-36
+activity#com.rudelabs.navami_wishes.MainActivity
+ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:18:5-29:16
+	android:label
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:20:7-39
+	android:launchMode
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:22:7-38
+	android:windowSoftInputMode
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:23:7-49
+	android:exported
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:24:7-30
+	android:configChanges
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:21:7-116
+	android:name
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:19:7-35
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:25:7-28:23
+action#android.intent.action.MAIN
+ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:26:9-61
+	android:name
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:26:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:27:9-69
+	android:name
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml:27:19-66
+uses-sdk
+INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/deepak/.gradle/caches/transforms-3/f77324eb3560ba053b9b4947b68eee65/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.125.0] /Users/deepak/.gradle/caches/transforms-3/f77324eb3560ba053b9b4947b68eee65/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/deepak/.gradle/caches/transforms-3/def57e1a4dcad109180b3ab53b0adde6/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.125.0] /Users/deepak/.gradle/caches/transforms-3/def57e1a4dcad109180b3ab53b0adde6/transformed/jetified-flipper-network-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/deepak/.gradle/caches/transforms-3/06b33314029caf76bcb35592e4d92a50/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.125.0] /Users/deepak/.gradle/caches/transforms-3/06b33314029caf76bcb35592e4d92a50/transformed/jetified-flipper-fresco-plugin-0.125.0/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-whatsapp-stickers] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-whatsapp-stickers/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-whatsapp-stickers] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-whatsapp-stickers/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-vector-icons] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-async-storage_async-storage] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/@react-native-async-storage/async-storage/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-safe-area-context/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-screens/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-share] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-share] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.70.6] /Users/deepak/.gradle/caches/transforms-3/23ab631cc4bdd45d79eb0b0d7ff117a4/transformed/jetified-react-native-0.70.6-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.70.6] /Users/deepak/.gradle/caches/transforms-3/23ab631cc4bdd45d79eb0b0d7ff117a4/transformed/jetified-react-native-0.70.6-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/deepak/.gradle/caches/transforms-3/440094654b78a37c269e1ce331777fe7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/deepak/.gradle/caches/transforms-3/440094654b78a37c269e1ce331777fe7/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.react:hermes-engine:0.70.6] /Users/deepak/.gradle/caches/transforms-3/2bba95126a31113d97dd36cf9dfd6bf3/transformed/jetified-hermes-engine-0.70.6-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:hermes-engine:0.70.6] /Users/deepak/.gradle/caches/transforms-3/2bba95126a31113d97dd36cf9dfd6bf3/transformed/jetified-hermes-engine-0.70.6-debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-reanimated/android/build/.transforms/c4bf74ff6b7e2eda570d7aeec29a66c8/transformed/jetified-react-native-reanimated-70-hermes/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-reanimated] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-reanimated/android/build/.transforms/c4bf74ff6b7e2eda570d7aeec29a66c8/transformed/jetified-react-native-reanimated-70-hermes/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/deepak/.gradle/caches/transforms-3/5b521ed0c6a8b11fdb64bf6ca50b45b0/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.6.0] /Users/deepak/.gradle/caches/transforms-3/5b521ed0c6a8b11fdb64bf6ca50b45b0/transformed/jetified-flipper-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/deepak/.gradle/caches/transforms-3/fd47ba3c6202e5878bf53bd26b9ae1f5/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.6.0] /Users/deepak/.gradle/caches/transforms-3/fd47ba3c6202e5878bf53bd26b9ae1f5/transformed/jetified-stetho-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/deepak/.gradle/caches/transforms-3/f5e12f3ed64f3a660f96783690933761/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.6.0] /Users/deepak/.gradle/caches/transforms-3/f5e12f3ed64f3a660f96783690933761/transformed/jetified-fresco-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/deepak/.gradle/caches/transforms-3/d26cee1a9aaa79cc46742f1be151af77/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:soloader:2.6.0] /Users/deepak/.gradle/caches/transforms-3/d26cee1a9aaa79cc46742f1be151af77/transformed/jetified-soloader-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/deepak/.gradle/caches/transforms-3/db5b56e5a1779922ae48a4f7d6fc667d/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.5.0] /Users/deepak/.gradle/caches/transforms-3/db5b56e5a1779922ae48a4f7d6fc667d/transformed/jetified-imagepipeline-okhttp3-2.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/deepak/.gradle/caches/transforms-3/1ba4072ceccbc4a3abf58c7c6c1fbc8d/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.6.0] /Users/deepak/.gradle/caches/transforms-3/1ba4072ceccbc4a3abf58c7c6c1fbc8d/transformed/jetified-drawee-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/deepak/.gradle/caches/transforms-3/677611c885e086417f023a1e4231ccb8/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.6.0] /Users/deepak/.gradle/caches/transforms-3/677611c885e086417f023a1e4231ccb8/transformed/jetified-nativeimagefilters-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/deepak/.gradle/caches/transforms-3/22e47837571da993e96b14f6ee5710dc/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-native:2.6.0] /Users/deepak/.gradle/caches/transforms-3/22e47837571da993e96b14f6ee5710dc/transformed/jetified-memory-type-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/deepak/.gradle/caches/transforms-3/13da3cde308857f59e4dc0458880e5ab/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-java:2.6.0] /Users/deepak/.gradle/caches/transforms-3/13da3cde308857f59e4dc0458880e5ab/transformed/jetified-memory-type-java-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/deepak/.gradle/caches/transforms-3/f6f23029cb330e3ee1768dae2063d51d/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-native:2.6.0] /Users/deepak/.gradle/caches/transforms-3/f6f23029cb330e3ee1768dae2063d51d/transformed/jetified-imagepipeline-native-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/deepak/.gradle/caches/transforms-3/bb1fa2cee29a8461702afb9280d29a7f/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.10.4] /Users/deepak/.gradle/caches/transforms-3/bb1fa2cee29a8461702afb9280d29a7f/transformed/jetified-soloader-0.10.4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/deepak/.gradle/caches/transforms-3/fa5b6c974d58e811509d4a0cbd5ffeff/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:memory-type-ashmem:2.6.0] /Users/deepak/.gradle/caches/transforms-3/fa5b6c974d58e811509d4a0cbd5ffeff/transformed/jetified-memory-type-ashmem-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/deepak/.gradle/caches/transforms-3/8706d4f07e241d53c57dd3dcedc7e6e4/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.6.0] /Users/deepak/.gradle/caches/transforms-3/8706d4f07e241d53c57dd3dcedc7e6e4/transformed/jetified-imagepipeline-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/deepak/.gradle/caches/transforms-3/b8d6279cc35fe2c0e28a6ce07f370cf4/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.6.0] /Users/deepak/.gradle/caches/transforms-3/b8d6279cc35fe2c0e28a6ce07f370cf4/transformed/jetified-nativeimagetranscoder-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/deepak/.gradle/caches/transforms-3/5a5a1ea6e90522d44b1fcf42bf1e5345/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.6.0] /Users/deepak/.gradle/caches/transforms-3/5a5a1ea6e90522d44b1fcf42bf1e5345/transformed/jetified-imagepipeline-base-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.1.0] /Users/deepak/.gradle/caches/transforms-3/95e5b6246a82fc2308e5e41875f52350/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/deepak/.gradle/caches/transforms-3/95e5b6246a82fc2308e5e41875f52350/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/deepak/.gradle/caches/transforms-3/09acc6d3947b13222a92849aeb95faf1/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/deepak/.gradle/caches/transforms-3/09acc6d3947b13222a92849aeb95faf1/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads:21.4.0] /Users/deepak/.gradle/caches/transforms-3/02400d862ce1e5239cdf23650df75011/transformed/jetified-play-services-ads-21.4.0/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:21.4.0] /Users/deepak/.gradle/caches/transforms-3/02400d862ce1e5239cdf23650df75011/transformed/jetified-play-services-ads-21.4.0/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/deepak/.gradle/caches/transforms-3/299118a3682997602c5c1f310a787637/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /Users/deepak/.gradle/caches/transforms-3/299118a3682997602c5c1f310a787637/transformed/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/deepak/.gradle/caches/transforms-3/9f7b45015896030194ebce7deeda1e49/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.1.0] /Users/deepak/.gradle/caches/transforms-3/9f7b45015896030194ebce7deeda1e49/transformed/sqlite-framework-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/deepak/.gradle/caches/transforms-3/67e6b752d9500436ba21b4070b078b79/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/deepak/.gradle/caches/transforms-3/67e6b752d9500436ba21b4070b078b79/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/deepak/.gradle/caches/transforms-3/ad8e2dbd416f5eb8f14483bdabd69a96/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.1.0] /Users/deepak/.gradle/caches/transforms-3/ad8e2dbd416f5eb8f14483bdabd69a96/transformed/jetified-autofill-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/deepak/.gradle/caches/transforms-3/beac59883981cfbc6a63c21985f7a1c4/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:middleware:2.6.0] /Users/deepak/.gradle/caches/transforms-3/beac59883981cfbc6a63c21985f7a1c4/transformed/jetified-middleware-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/deepak/.gradle/caches/transforms-3/8879085792a67336d2caa4ea65e5ec70/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:ui-common:2.6.0] /Users/deepak/.gradle/caches/transforms-3/8879085792a67336d2caa4ea65e5ec70/transformed/jetified-ui-common-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/deepak/.gradle/caches/transforms-3/cac2d21b5bc405a5e8e25fc90fc972c8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/deepak/.gradle/caches/transforms-3/cac2d21b5bc405a5e8e25fc90fc972c8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/deepak/.gradle/caches/transforms-3/b7bdf6a650d1fbe9c08512cb429afdf3/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/deepak/.gradle/caches/transforms-3/b7bdf6a650d1fbe9c08512cb429afdf3/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/deepak/.gradle/caches/transforms-3/e1a818882399891e6d58c264b9773409/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/deepak/.gradle/caches/transforms-3/e1a818882399891e6d58c264b9773409/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/deepak/.gradle/caches/transforms-3/9de01d551500f987ae8554000b28c1f7/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/deepak/.gradle/caches/transforms-3/9de01d551500f987ae8554000b28c1f7/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.ump:user-messaging-platform:2.0.0] /Users/deepak/.gradle/caches/transforms-3/ed28dbb9190c188d69a0269d409b5656/transformed/jetified-user-messaging-platform-2.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.ump:user-messaging-platform:2.0.0] /Users/deepak/.gradle/caches/transforms-3/ed28dbb9190c188d69a0269d409b5656/transformed/jetified-user-messaging-platform-2.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/deepak/.gradle/caches/transforms-3/40831c85196fb011e9a7b3f0c314e36b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/deepak/.gradle/caches/transforms-3/40831c85196fb011e9a7b3f0c314e36b/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/deepak/.gradle/caches/transforms-3/1f5e9434628f8c313b95f3343ae6f81b/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.1.0] /Users/deepak/.gradle/caches/transforms-3/1f5e9434628f8c313b95f3343ae6f81b/transformed/sqlite-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/deepak/.gradle/caches/transforms-3/18ce5fff9888d85df3020e2ea79f8c33/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/deepak/.gradle/caches/transforms-3/18ce5fff9888d85df3020e2ea79f8c33/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:21.4.0] /Users/deepak/.gradle/caches/transforms-3/906beb767cc7b95406d025534122c7f8/transformed/jetified-play-services-ads-base-21.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:21.4.0] /Users/deepak/.gradle/caches/transforms-3/906beb767cc7b95406d025534122c7f8/transformed/jetified-play-services-ads-base-21.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/deepak/.gradle/caches/transforms-3/7d1745dff212537eede1fee15f153ebf/transformed/jetified-play-services-appset-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-appset:16.0.1] /Users/deepak/.gradle/caches/transforms-3/7d1745dff212537eede1fee15f153ebf/transformed/jetified-play-services-appset-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.0] /Users/deepak/.gradle/caches/transforms-3/64d81ebafbd5f35bc724c109d2036474/transformed/jetified-play-services-base-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.0] /Users/deepak/.gradle/caches/transforms-3/64d81ebafbd5f35bc724c109d2036474/transformed/jetified-play-services-base-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/deepak/.gradle/caches/transforms-3/e2fea474f70df246fb595b4a2f7aa340/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/deepak/.gradle/caches/transforms-3/e2fea474f70df246fb595b4a2f7aa340/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/deepak/.gradle/caches/transforms-3/e06a3ee8589f57cf992c1ca2fc5e309d/transformed/jetified-play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/deepak/.gradle/caches/transforms-3/e06a3ee8589f57cf992c1ca2fc5e309d/transformed/jetified-play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/deepak/.gradle/caches/transforms-3/e175fb07b4b92b4984fab96483a565d7/transformed/jetified-play-services-measurement-base-20.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:20.1.2] /Users/deepak/.gradle/caches/transforms-3/e175fb07b4b92b4984fab96483a565d7/transformed/jetified-play-services-measurement-base-20.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/deepak/.gradle/caches/transforms-3/3f3b554bbfe185d458c5757319125f8c/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /Users/deepak/.gradle/caches/transforms-3/3f3b554bbfe185d458c5757319125f8c/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/deepak/.gradle/caches/transforms-3/c4ceee6fb5fc88214d1e41e7d3104ffc/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/deepak/.gradle/caches/transforms-3/c4ceee6fb5fc88214d1e41e7d3104ffc/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/deepak/.gradle/caches/transforms-3/9da4558c267c3798df39589de4764678/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/deepak/.gradle/caches/transforms-3/9da4558c267c3798df39589de4764678/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/deepak/.gradle/caches/transforms-3/d54c7f97072808783b557bde0137165a/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/deepak/.gradle/caches/transforms-3/d54c7f97072808783b557bde0137165a/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/deepak/.gradle/caches/transforms-3/91f4ceaff748a6cc1597752228fb21aa/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/deepak/.gradle/caches/transforms-3/91f4ceaff748a6cc1597752228fb21aa/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/deepak/.gradle/caches/transforms-3/50e1b705556bc8c4b7b85291bebce028/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/deepak/.gradle/caches/transforms-3/50e1b705556bc8c4b7b85291bebce028/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/deepak/.gradle/caches/transforms-3/500fb56e51f16160058ca833c32781c1/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/deepak/.gradle/caches/transforms-3/500fb56e51f16160058ca833c32781c1/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/deepak/.gradle/caches/transforms-3/6237f216a78e5935eb5050fc371a02e6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/deepak/.gradle/caches/transforms-3/6237f216a78e5935eb5050fc371a02e6/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/deepak/.gradle/caches/transforms-3/21b623236f7f8b5dca5f80470a2e17ac/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/deepak/.gradle/caches/transforms-3/21b623236f7f8b5dca5f80470a2e17ac/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/deepak/.gradle/caches/transforms-3/59c5c50b27e6810e8d4699fca2f19844/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/deepak/.gradle/caches/transforms-3/59c5c50b27e6810e8d4699fca2f19844/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/deepak/.gradle/caches/transforms-3/79192be5cf8d9c431c265f4f151a050d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/deepak/.gradle/caches/transforms-3/79192be5cf8d9c431c265f4f151a050d/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/deepak/.gradle/caches/transforms-3/74d4ab5b380c221128d83704b18d90ba/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/deepak/.gradle/caches/transforms-3/74d4ab5b380c221128d83704b18d90ba/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/deepak/.gradle/caches/transforms-3/584e7b370dc5c7474f85c0972c626481/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/deepak/.gradle/caches/transforms-3/584e7b370dc5c7474f85c0972c626481/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /Users/deepak/.gradle/caches/transforms-3/f94a6548d960336ddd54c8f8d1fa2772/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/deepak/.gradle/caches/transforms-3/f94a6548d960336ddd54c8f8d1fa2772/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/deepak/.gradle/caches/transforms-3/01b05d65929b5fd75a935c8a6dfe5da9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/deepak/.gradle/caches/transforms-3/01b05d65929b5fd75a935c8a6dfe5da9/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/deepak/.gradle/caches/transforms-3/a31ae9e54f351b94b23faf57b5a6367f/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/deepak/.gradle/caches/transforms-3/a31ae9e54f351b94b23faf57b5a6367f/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/deepak/.gradle/caches/transforms-3/0e6794987f592cdadb4c3198fe17e5ae/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/deepak/.gradle/caches/transforms-3/0e6794987f592cdadb4c3198fe17e5ae/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/deepak/.gradle/caches/transforms-3/56c1d2f2ca3435ffde2d9471851e560e/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/deepak/.gradle/caches/transforms-3/56c1d2f2ca3435ffde2d9471851e560e/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/deepak/.gradle/caches/transforms-3/fe2391112b2df4848faba0e3c7814d54/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/deepak/.gradle/caches/transforms-3/fe2391112b2df4848faba0e3c7814d54/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/deepak/.gradle/caches/transforms-3/4b484f526417f17aab7500514c51ad01/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/deepak/.gradle/caches/transforms-3/4b484f526417f17aab7500514c51ad01/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/deepak/.gradle/caches/transforms-3/f0375e2f50db76a167fe33fb0f9070f6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/deepak/.gradle/caches/transforms-3/f0375e2f50db76a167fe33fb0f9070f6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/deepak/.gradle/caches/transforms-3/aba20c833b89276e99a79001f2220bb8/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/deepak/.gradle/caches/transforms-3/aba20c833b89276e99a79001f2220bb8/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/deepak/.gradle/caches/transforms-3/51a1f068f0aa98870c3d37e2b2543071/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/deepak/.gradle/caches/transforms-3/51a1f068f0aa98870c3d37e2b2543071/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/deepak/.gradle/caches/transforms-3/ca91d651f02c83188ed58997335b6812/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] /Users/deepak/.gradle/caches/transforms-3/ca91d651f02c83188ed58997335b6812/transformed/lifecycle-livedata-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/deepak/.gradle/caches/transforms-3/2f46fb31216ad1ac8da055d1395b1c6b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/deepak/.gradle/caches/transforms-3/2f46fb31216ad1ac8da055d1395b1c6b/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/deepak/.gradle/caches/transforms-3/ed8f0920869c400f55c1176a60949e5c/transformed/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] /Users/deepak/.gradle/caches/transforms-3/ed8f0920869c400f55c1176a60949e5c/transformed/jetified-lifecycle-service-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/deepak/.gradle/caches/transforms-3/348f1f0991de90aec68fb6ac46dba31b/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/deepak/.gradle/caches/transforms-3/348f1f0991de90aec68fb6ac46dba31b/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/deepak/.gradle/caches/transforms-3/73fe2cc71200dde8cd8a540aaea45dba/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/deepak/.gradle/caches/transforms-3/73fe2cc71200dde8cd8a540aaea45dba/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/deepak/.gradle/caches/transforms-3/4a46a0cf3a1434e256d310e83955b0e8/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.6.0] /Users/deepak/.gradle/caches/transforms-3/4a46a0cf3a1434e256d310e83955b0e8/transformed/jetified-fbcore-2.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/deepak/.gradle/caches/transforms-3/5d0d4de6b93fd15cd93c5ac4f44a5b0e/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/deepak/.gradle/caches/transforms-3/5d0d4de6b93fd15cd93c5ac4f44a5b0e/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/debug/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:21.4.0] /Users/deepak/.gradle/caches/transforms-3/02400d862ce1e5239cdf23650df75011/transformed/jetified-play-services-ads-21.4.0/AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/debug/AndroidManifest.xml:5:22-75
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/debug/AndroidManifest.xml:11:9-111
+	android:exported
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/debug/AndroidManifest.xml:11:84-108
+	android:name
+		ADDED from /Users/deepak/Documents/ReactNative/android/festiveapp/android/app/src/debug/AndroidManifest.xml:11:19-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/deepak/.gradle/caches/transforms-3/f77324eb3560ba053b9b4947b68eee65/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.125.0] /Users/deepak/.gradle/caches/transforms-3/f77324eb3560ba053b9b4947b68eee65/transformed/jetified-flipper-0.125.0/AndroidManifest.xml:16:22-73
+provider#com.jobeso.RNWhatsAppStickers.StickerContentProvider
+ADDED from [:react-native-whatsapp-stickers] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-whatsapp-stickers/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-15:66
+	android:readPermission
+		ADDED from [:react-native-whatsapp-stickers] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-whatsapp-stickers/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-63
+	android:enabled
+		ADDED from [:react-native-whatsapp-stickers] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-whatsapp-stickers/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-35
+	android:authorities
+		ADDED from [:react-native-whatsapp-stickers] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-whatsapp-stickers/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-74
+	android:exported
+		ADDED from [:react-native-whatsapp-stickers] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-whatsapp-stickers/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [:react-native-whatsapp-stickers] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-whatsapp-stickers/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-80
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:25:5-68
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/deepak/.gradle/caches/transforms-3/e06a3ee8589f57cf992c1ca2fc5e309d/transformed/jetified-play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/deepak/.gradle/caches/transforms-3/e06a3ee8589f57cf992c1ca2fc5e309d/transformed/jetified-play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:25:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:26:5-79
+MERGED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/deepak/.gradle/caches/transforms-3/e06a3ee8589f57cf992c1ca2fc5e309d/transformed/jetified-play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/deepak/.gradle/caches/transforms-3/e06a3ee8589f57cf992c1ca2fc5e309d/transformed/jetified-play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:22-76
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:9-16:70
+	android:value
+		ADDED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:13-67
+	android:name
+		ADDED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-69
+meta-data#com.google.android.gms.ads.DELAY_APP_MEASUREMENT_INIT
+ADDED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:9-19:37
+	android:value
+		ADDED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:19:13-34
+	android:name
+		ADDED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18:13-81
+meta-data#com.google.android.gms.ads.flag.OPTIMIZE_INITIALIZATION
+ADDED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20:9-22:36
+	android:value
+		ADDED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-33
+	android:name
+		ADDED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-83
+meta-data#com.google.android.gms.ads.flag.OPTIMIZE_AD_LOADING
+ADDED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:23:9-25:36
+	android:value
+		ADDED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:25:13-33
+	android:name
+		ADDED from [:react-native-google-mobile-ads] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-google-mobile-ads/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-79
+provider#cl.json.RNShareFileProvider
+ADDED from [:react-native-share] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-share] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-share] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [:react-native-share] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-share] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-55
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-share] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:64
+	android:resource
+		ADDED from [:react-native-share] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-61
+	android:name
+		ADDED from [:react-native-share] /Users/deepak/Documents/ReactNative/android/festiveapp/node_modules/react-native-share/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/deepak/.gradle/caches/transforms-3/18ce5fff9888d85df3020e2ea79f8c33/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/deepak/.gradle/caches/transforms-3/18ce5fff9888d85df3020e2ea79f8c33/transformed/jetified-play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/deepak/.gradle/caches/transforms-3/e06a3ee8589f57cf992c1ca2fc5e309d/transformed/jetified-play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/deepak/.gradle/caches/transforms-3/e06a3ee8589f57cf992c1ca2fc5e309d/transformed/jetified-play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:26:22-76
+intent#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+data:scheme:https
+ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:32:9-38:18
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:33:13-65
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:33:21-62
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:35:13-74
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:35:23-71
+data
+ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:37:13-44
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:37:19-41
+intent#action:name:android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:41:9-43:18
+action#android.support.customtabs.action.CustomTabsService
+ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:42:13-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:42:21-87
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:50:9-55:43
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:53:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:55:13-40
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:52:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:54:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:51:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:57:9-62:43
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:59:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:60:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:62:13-40
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:61:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:58:13-76
+service#com.google.android.gms.ads.AdService
+ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:64:9-68:43
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:66:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:67:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:68:13-40
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:65:13-64
+activity#com.google.android.gms.ads.OutOfContextTestingActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:70:9-74:43
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:73:13-37
+	tools:ignore
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:74:13-40
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:72:13-122
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:21.4.0] /Users/deepak/.gradle/caches/transforms-3/9b5ac894a2426021cc6fcc4193c12e68/transformed/jetified-play-services-ads-lite-21.4.0/AndroidManifest.xml:71:13-82
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:27:5-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:27:22-78
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:28:5-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:28:22-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:31:9-39:20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/deepak/.gradle/caches/transforms-3/500fb56e51f16160058ca833c32781c1/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/deepak/.gradle/caches/transforms-3/500fb56e51f16160058ca833c32781c1/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/deepak/.gradle/caches/transforms-3/f0375e2f50db76a167fe33fb0f9070f6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/deepak/.gradle/caches/transforms-3/f0375e2f50db76a167fe33fb0f9070f6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/deepak/.gradle/caches/transforms-3/aba20c833b89276e99a79001f2220bb8/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/deepak/.gradle/caches/transforms-3/aba20c833b89276e99a79001f2220bb8/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:35:13-31
+	android:authorities
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:33:13-68
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:32:13-67
+meta-data#androidx.work.WorkManagerInitializer
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:36:13-38:52
+	android:value
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:38:17-49
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:37:17-68
+service#androidx.work.impl.background.systemalarm.SystemAlarmService
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:41:9-46:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:44:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:45:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:46:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:43:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:42:13-88
+service#androidx.work.impl.background.systemjob.SystemJobService
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:47:9-53:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:50:13-70
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:51:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:52:13-69
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:53:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:49:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:48:13-84
+service#androidx.work.impl.foreground.SystemForegroundService
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:54:9-59:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:57:13-77
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:58:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:59:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:56:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:55:13-81
+receiver#androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:61:9-66:35
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:64:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:65:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:66:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:63:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:62:13-88
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:67:9-77:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:70:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:71:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:72:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:69:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:68:13-106
+intent-filter#action:name:android.intent.action.ACTION_POWER_CONNECTED+action:name:android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:73:13-76:29
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:74:17-87
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:74:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:75:17-90
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:75:25-87
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:78:9-88:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:81:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:82:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:83:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:80:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:79:13-104
+intent-filter#action:name:android.intent.action.BATTERY_LOW+action:name:android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:84:13-87:29
+action#android.intent.action.BATTERY_OKAY
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:85:25-74
+action#android.intent.action.BATTERY_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:86:17-76
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:86:25-73
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:89:9-99:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:92:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:93:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:94:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:90:13-104
+intent-filter#action:name:android.intent.action.DEVICE_STORAGE_LOW+action:name:android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:95:13-98:29
+action#android.intent.action.DEVICE_STORAGE_LOW
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:96:17-83
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:96:25-80
+action#android.intent.action.DEVICE_STORAGE_OK
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:97:17-82
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:97:25-79
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:100:9-109:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:103:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:104:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:105:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:102:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:101:13-103
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:106:13-108:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:107:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:107:25-76
+receiver#androidx.work.impl.background.systemalarm.RescheduleReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:110:9-121:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:113:13-36
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:114:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:115:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:112:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:111:13-88
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.TIMEZONE_CHANGED+action:name:android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:116:13-120:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:117:17-79
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:117:25-76
+action#android.intent.action.TIME_SET
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:118:17-73
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:118:25-70
+action#android.intent.action.TIMEZONE_CHANGED
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:119:17-81
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:119:25-78
+receiver#androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:122:9-131:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:125:13-72
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:126:13-37
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:127:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:123:13-99
+intent-filter#action:name:androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:128:13-130:29
+action#androidx.work.impl.background.systemalarm.UpdateProxies
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:129:17-98
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:129:25-95
+receiver#androidx.work.impl.diagnostics.DiagnosticsReceiver
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:132:9-142:20
+	android:enabled
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:135:13-35
+	android:exported
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:136:13-36
+	android:permission
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:137:13-57
+	tools:targetApi
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:138:13-32
+	android:directBootAware
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:134:13-44
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:133:13-78
+intent-filter#action:name:androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:139:13-141:29
+action#androidx.work.diagnostics.REQUEST_DIAGNOSTICS
+ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:140:17-88
+	android:name
+		ADDED from [androidx.work:work-runtime:2.7.0] /Users/deepak/.gradle/caches/transforms-3/f88a603a9b12f0383b6e4fe513cc73ac/transformed/work-runtime-2.7.0/AndroidManifest.xml:140:25-85
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /Users/deepak/.gradle/caches/transforms-3/299118a3682997602c5c1f310a787637/transformed/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/deepak/.gradle/caches/transforms-3/299118a3682997602c5c1f310a787637/transformed/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/deepak/.gradle/caches/transforms-3/299118a3682997602c5c1f310a787637/transformed/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /Users/deepak/.gradle/caches/transforms-3/299118a3682997602c5c1f310a787637/transformed/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.0] /Users/deepak/.gradle/caches/transforms-3/64d81ebafbd5f35bc724c109d2036474/transformed/jetified-play-services-base-18.0.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.0] /Users/deepak/.gradle/caches/transforms-3/64d81ebafbd5f35bc724c109d2036474/transformed/jetified-play-services-base-18.0.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.0] /Users/deepak/.gradle/caches/transforms-3/64d81ebafbd5f35bc724c109d2036474/transformed/jetified-play-services-base-18.0.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.0] /Users/deepak/.gradle/caches/transforms-3/64d81ebafbd5f35bc724c109d2036474/transformed/jetified-play-services-base-18.0.0/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/deepak/.gradle/caches/transforms-3/3f3b554bbfe185d458c5757319125f8c/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/deepak/.gradle/caches/transforms-3/3f3b554bbfe185d458c5757319125f8c/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] /Users/deepak/.gradle/caches/transforms-3/3f3b554bbfe185d458c5757319125f8c/transformed/jetified-play-services-basement-18.0.0/AndroidManifest.xml:22:13-58
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/deepak/.gradle/caches/transforms-3/500fb56e51f16160058ca833c32781c1/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/deepak/.gradle/caches/transforms-3/500fb56e51f16160058ca833c32781c1/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/deepak/.gradle/caches/transforms-3/500fb56e51f16160058ca833c32781c1/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/deepak/.gradle/caches/transforms-3/f0375e2f50db76a167fe33fb0f9070f6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/deepak/.gradle/caches/transforms-3/f0375e2f50db76a167fe33fb0f9070f6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/deepak/.gradle/caches/transforms-3/f0375e2f50db76a167fe33fb0f9070f6/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

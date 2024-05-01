@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.rudelabs.navami_wishes.app-mergeReleaseResources-32:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/deepak/.gradle/caches/transforms-3/09acc6d3947b13222a92849aeb95faf1/transformed/appcompat-1.4.1/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
